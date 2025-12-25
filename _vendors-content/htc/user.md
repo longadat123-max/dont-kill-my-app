@@ -1,4 +1,4 @@
----
+Starting with root...---
 manufacturer:
     - htc
 
